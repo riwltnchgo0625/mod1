@@ -20,7 +20,7 @@
                 android:layout_marginTop="10dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="#E3F2FD">
+                android:background="#ECECEC">
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -39,7 +39,7 @@
                 android:id="@+id/featured_recycler"
                 android:layout_width="match_parent"
                 android:layout_height="270dp"
-                android:background="#E3F2FD"
+                android:background="#64B5F6"
                 android:overScrollMode="never" />
 
             <RelativeLayout
@@ -235,7 +235,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginStart="10dp"
+                        android:layout_marginStart="5dp"
                         android:text="@string/MostViewed"
                         android:textAllCaps="true"
                         android:textColor="@android:color/black"
@@ -273,7 +273,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginStart="10dp"
+                        android:layout_marginStart="5dp"
                         android:text="@string/Categories"
                         android:textAllCaps="true"
                         android:textColor="@android:color/black"
